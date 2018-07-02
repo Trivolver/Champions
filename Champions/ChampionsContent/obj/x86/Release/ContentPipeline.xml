@@ -1,0 +1,1142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Menu\Title.jpg</Source>
+      <Name>Menu\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Menu\Title.xnb</Output>
+      <Time>2013-03-25T23:33:18.6428206-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\menuOptions.jpg</Source>
+      <Name>Menu\menuOptions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Menu\menuOptions.xnb</Output>
+      <Time>2013-03-26T01:10:44.6561934-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Selector.jpg</Source>
+      <Name>Menu\Selector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Menu\Selector.xnb</Output>
+      <Time>2013-03-26T01:26:15.7464487-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\TitleSong.mp3</Source>
+      <Name>Menu\TitleSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Menu\TitleSong.xnb</Output>
+      <Extra>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Menu\TitleSong.wma</Extra>
+      <Time>2013-03-26T01:58:56.981625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadGame\FileSelect.png</Source>
+      <Name>LoadGame\FileSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\LoadGame\FileSelect.xnb</Output>
+      <Time>2013-04-01T22:14:25.2779344-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadGame\Mage.jpg</Source>
+      <Name>LoadGame\Mage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\LoadGame\Mage.xnb</Output>
+      <Time>2013-04-01T22:14:25.2789345-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadGame\None.jpg</Source>
+      <Name>LoadGame\None</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\LoadGame\None.xnb</Output>
+      <Time>2013-04-01T22:14:25.2869349-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadGame\SelectorGraphic.png</Source>
+      <Name>LoadGame\SelectorGraphic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\LoadGame\SelectorGraphic.xnb</Output>
+      <Time>2013-04-01T22:14:25.3019358-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadGame\Warrior.jpg</Source>
+      <Name>LoadGame\Warrior</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\LoadGame\Warrior.xnb</Output>
+      <Time>2013-04-01T22:14:25.3419381-04:00</Time>
+    </Item>
+    <Item>
+      <Source>NewGame\NewScreen.jpg</Source>
+      <Name>NewGame\NewScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\NewGame\NewScreen.xnb</Output>
+      <Time>2013-04-02T02:43:53.9787312-04:00</Time>
+    </Item>
+    <Item>
+      <Source>NewGame\NewSelector.png</Source>
+      <Name>NewGame\NewSelector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\NewGame\NewSelector.xnb</Output>
+      <Time>2013-04-02T02:43:53.9797313-04:00</Time>
+    </Item>
+    <Item>
+      <Source>NewGame\classMage.jpg</Source>
+      <Name>NewGame\classMage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\NewGame\classMage.xnb</Output>
+      <Time>2013-04-02T03:43:09.7401091-04:00</Time>
+    </Item>
+    <Item>
+      <Source>NewGame\classWarrior.jpg</Source>
+      <Name>NewGame\classWarrior</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\NewGame\classWarrior.xnb</Output>
+      <Time>2013-04-02T03:43:09.75511-04:00</Time>
+    </Item>
+    <Item>
+      <Source>NewGame\classSelect.jpg</Source>
+      <Name>NewGame\classSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\NewGame\classSelect.xnb</Output>
+      <Time>2013-04-02T04:12:45.1436564-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Back_Idle.png</Source>
+      <Name>Characters\Warrior\Knight_Back_Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Back_Idle.xnb</Output>
+      <Time>2013-04-05T01:04:58.1472317-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Back_Walk_1.png</Source>
+      <Name>Characters\Warrior\Knight_Back_Walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Back_Walk_1.xnb</Output>
+      <Time>2013-04-05T01:04:58.1482318-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Back_Walk_2.png</Source>
+      <Name>Characters\Warrior\Knight_Back_Walk_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Back_Walk_2.xnb</Output>
+      <Time>2013-04-05T01:04:58.1492318-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Back_Walk_3.png</Source>
+      <Name>Characters\Warrior\Knight_Back_Walk_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Back_Walk_3.xnb</Output>
+      <Time>2013-04-05T01:04:58.1492318-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Back_Walk_4.png</Source>
+      <Name>Characters\Warrior\Knight_Back_Walk_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Back_Walk_4.xnb</Output>
+      <Time>2013-04-05T01:04:58.1502319-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Front_Idle.png</Source>
+      <Name>Characters\Warrior\Knight_Front_Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Front_Idle.xnb</Output>
+      <Time>2013-04-05T01:04:58.1642327-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Front_Walk_1.png</Source>
+      <Name>Characters\Warrior\Knight_Front_Walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Front_Walk_1.xnb</Output>
+      <Time>2013-04-05T01:04:58.1732332-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Front_Walk_2.png</Source>
+      <Name>Characters\Warrior\Knight_Front_Walk_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Front_Walk_2.xnb</Output>
+      <Time>2013-04-05T01:04:58.1732332-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Front_Walk_3.png</Source>
+      <Name>Characters\Warrior\Knight_Front_Walk_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Front_Walk_3.xnb</Output>
+      <Time>2013-04-05T01:04:58.1752333-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Front_Walk_4.png</Source>
+      <Name>Characters\Warrior\Knight_Front_Walk_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Front_Walk_4.xnb</Output>
+      <Time>2013-04-05T01:04:58.1832338-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Left_Idle.png</Source>
+      <Name>Characters\Warrior\Knight_Left_Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Left_Idle.xnb</Output>
+      <Time>2013-04-05T01:04:58.1842338-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Left_Walk_1.png</Source>
+      <Name>Characters\Warrior\Knight_Left_Walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Left_Walk_1.xnb</Output>
+      <Time>2013-04-05T01:04:58.1842338-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Left_Walk_2.png</Source>
+      <Name>Characters\Warrior\Knight_Left_Walk_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Left_Walk_2.xnb</Output>
+      <Time>2013-04-05T01:04:58.1852339-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Left_Walk_3.png</Source>
+      <Name>Characters\Warrior\Knight_Left_Walk_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Left_Walk_3.xnb</Output>
+      <Time>2013-04-05T01:04:58.1972346-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Left_Walk_4.png</Source>
+      <Name>Characters\Warrior\Knight_Left_Walk_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Left_Walk_4.xnb</Output>
+      <Time>2013-04-05T01:04:58.205235-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Right_Idle.png</Source>
+      <Name>Characters\Warrior\Knight_Right_Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Right_Idle.xnb</Output>
+      <Time>2013-04-05T01:04:58.2062351-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Right_Walk_1.png</Source>
+      <Name>Characters\Warrior\Knight_Right_Walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Right_Walk_1.xnb</Output>
+      <Time>2013-04-05T01:04:58.2432372-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Right_Walk_2.png</Source>
+      <Name>Characters\Warrior\Knight_Right_Walk_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Right_Walk_2.xnb</Output>
+      <Time>2013-04-05T01:04:58.2552379-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Right_Walk_3.png</Source>
+      <Name>Characters\Warrior\Knight_Right_Walk_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Right_Walk_3.xnb</Output>
+      <Time>2013-04-05T01:04:58.2552379-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Warrior\Knight_Right_Walk_4.png</Source>
+      <Name>Characters\Warrior\Knight_Right_Walk_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Warrior\Knight_Right_Walk_4.xnb</Output>
+      <Time>2013-04-05T01:04:58.256238-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Back_Idle.png</Source>
+      <Name>Characters\Wizard\Wizard_Back_Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Back_Idle.xnb</Output>
+      <Time>2013-04-05T01:05:13.8461297-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Back_Walk_1.png</Source>
+      <Name>Characters\Wizard\Wizard_Back_Walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Back_Walk_1.xnb</Output>
+      <Time>2013-04-05T01:05:13.8471297-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Back_Walk_2.png</Source>
+      <Name>Characters\Wizard\Wizard_Back_Walk_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Back_Walk_2.xnb</Output>
+      <Time>2013-04-05T01:05:13.8481298-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Back_Walk_3.png</Source>
+      <Name>Characters\Wizard\Wizard_Back_Walk_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Back_Walk_3.xnb</Output>
+      <Time>2013-04-05T01:05:13.8491298-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Back_Walk_4.png</Source>
+      <Name>Characters\Wizard\Wizard_Back_Walk_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Back_Walk_4.xnb</Output>
+      <Time>2013-04-05T01:05:13.8501299-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Back_Walk_5.png</Source>
+      <Name>Characters\Wizard\Wizard_Back_Walk_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Back_Walk_5.xnb</Output>
+      <Time>2013-04-05T01:05:13.8511299-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Front_Idle.png</Source>
+      <Name>Characters\Wizard\Wizard_Front_Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Front_Idle.xnb</Output>
+      <Time>2013-04-05T01:05:13.8511299-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Front_Walk_1.png</Source>
+      <Name>Characters\Wizard\Wizard_Front_Walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Front_Walk_1.xnb</Output>
+      <Time>2013-04-05T01:05:13.85213-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Front_Walk_2.png</Source>
+      <Name>Characters\Wizard\Wizard_Front_Walk_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Front_Walk_2.xnb</Output>
+      <Time>2013-04-05T01:05:13.8541301-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Front_Walk_3.png</Source>
+      <Name>Characters\Wizard\Wizard_Front_Walk_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Front_Walk_3.xnb</Output>
+      <Time>2013-04-05T01:05:13.8551302-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Front_Walk_4.png</Source>
+      <Name>Characters\Wizard\Wizard_Front_Walk_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Front_Walk_4.xnb</Output>
+      <Time>2013-04-05T01:05:13.8551302-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Front_Walk_5.png</Source>
+      <Name>Characters\Wizard\Wizard_Front_Walk_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Front_Walk_5.xnb</Output>
+      <Time>2013-04-05T01:05:13.8601305-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Left_Idle.png</Source>
+      <Name>Characters\Wizard\Wizard_Left_Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Left_Idle.xnb</Output>
+      <Time>2013-04-05T01:05:13.8611305-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Left_Walk_1.png</Source>
+      <Name>Characters\Wizard\Wizard_Left_Walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Left_Walk_1.xnb</Output>
+      <Time>2013-04-05T01:05:13.8611305-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Left_Walk_2.png</Source>
+      <Name>Characters\Wizard\Wizard_Left_Walk_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Left_Walk_2.xnb</Output>
+      <Time>2013-04-05T01:05:13.8631306-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Left_Walk_3.png</Source>
+      <Name>Characters\Wizard\Wizard_Left_Walk_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Left_Walk_3.xnb</Output>
+      <Time>2013-04-05T01:05:13.8641307-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Left_Walk_4.png</Source>
+      <Name>Characters\Wizard\Wizard_Left_Walk_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Left_Walk_4.xnb</Output>
+      <Time>2013-04-05T01:05:13.8641307-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Left_Walk_5.png</Source>
+      <Name>Characters\Wizard\Wizard_Left_Walk_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Left_Walk_5.xnb</Output>
+      <Time>2013-04-05T01:05:13.8661308-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Right_Idle.png</Source>
+      <Name>Characters\Wizard\Wizard_Right_Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Right_Idle.xnb</Output>
+      <Time>2013-04-05T01:05:13.8671309-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Right_Walk_1.png</Source>
+      <Name>Characters\Wizard\Wizard_Right_Walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Right_Walk_1.xnb</Output>
+      <Time>2013-04-05T01:05:13.8671309-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Right_Walk_2.png</Source>
+      <Name>Characters\Wizard\Wizard_Right_Walk_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Right_Walk_2.xnb</Output>
+      <Time>2013-04-05T01:05:13.9621363-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Right_Walk_3.png</Source>
+      <Name>Characters\Wizard\Wizard_Right_Walk_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Right_Walk_3.xnb</Output>
+      <Time>2013-04-05T01:05:13.9661365-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Right_Walk_4.png</Source>
+      <Name>Characters\Wizard\Wizard_Right_Walk_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Right_Walk_4.xnb</Output>
+      <Time>2013-04-05T01:05:13.9711368-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Wizard\Wizard_Right_Walk_5.png</Source>
+      <Name>Characters\Wizard\Wizard_Right_Walk_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Characters\Wizard\Wizard_Right_Walk_5.xnb</Output>
+      <Time>2013-04-05T01:05:13.975137-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MapOne\Map1.png</Source>
+      <Name>MapOne\Map1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\MapOne\Map1.xnb</Output>
+      <Time>2013-04-08T16:18:22.9800262-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Basic.png</Source>
+      <Name>UI\UI_Basic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Basic.xnb</Output>
+      <Time>2013-04-17T03:43:33.5782371-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Healthbar.png</Source>
+      <Name>UI\UI_Healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Healthbar.xnb</Output>
+      <Time>2013-04-17T04:49:45.5104187-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Manabar.png</Source>
+      <Name>UI\UI_Manabar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Manabar.xnb</Output>
+      <Time>2013-04-17T04:49:45.5094186-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\LogoCraft.spritefont</Source>
+      <Name>UI\LogoCraft</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\LogoCraft.xnb</Output>
+      <Time>2013-04-17T04:04:00.1683941-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\ExpHealth.spritefont</Source>
+      <Name>UI\ExpHealth</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\ExpHealth.xnb</Output>
+      <Time>2013-04-17T04:22:46.9848443-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Mage_1.png</Source>
+      <Name>UI\UI_Mage_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Mage_1.xnb</Output>
+      <Time>2013-04-17T22:26:36.2995906-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Mage_2.png</Source>
+      <Name>UI\UI_Mage_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Mage_2.xnb</Output>
+      <Time>2013-04-17T22:26:36.3005907-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Mage_3.png</Source>
+      <Name>UI\UI_Mage_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Mage_3.xnb</Output>
+      <Time>2013-04-17T22:26:36.3295923-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Mage_4.png</Source>
+      <Name>UI\UI_Mage_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Mage_4.xnb</Output>
+      <Time>2013-04-17T22:26:36.3305924-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Mage_5.png</Source>
+      <Name>UI\UI_Mage_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Mage_5.xnb</Output>
+      <Time>2013-04-17T22:26:36.3305924-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Warrior_1.png</Source>
+      <Name>UI\UI_Warrior_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Warrior_1.xnb</Output>
+      <Time>2013-04-17T22:26:36.3315924-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Warrior_2.png</Source>
+      <Name>UI\UI_Warrior_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Warrior_2.xnb</Output>
+      <Time>2013-04-17T22:26:36.3545937-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Warrior_3.png</Source>
+      <Name>UI\UI_Warrior_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Warrior_3.xnb</Output>
+      <Time>2013-04-17T22:26:36.3555938-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Warrior_4.png</Source>
+      <Name>UI\UI_Warrior_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Warrior_4.xnb</Output>
+      <Time>2013-04-17T22:26:36.3555938-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UI_Warrior_5.png</Source>
+      <Name>UI\UI_Warrior_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\UI_Warrior_5.xnb</Output>
+      <Time>2013-04-17T22:26:36.2925902-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MapOne\Map2.jpg</Source>
+      <Name>MapOne\Map2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\MapOne\Map2.xnb</Output>
+      <Time>2013-04-20T20:04:35.8976435-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\0.mp3</Source>
+      <Name>Music\0</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\0.xnb</Output>
+      <Extra>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\0.wma</Extra>
+      <Time>2013-04-21T02:23:44.8395725-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\1.mp3</Source>
+      <Name>Music\1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\1.xnb</Output>
+      <Extra>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\1.wma</Extra>
+      <Time>2013-04-21T02:23:44.8545733-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\2.mp3</Source>
+      <Name>Music\2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\2.xnb</Output>
+      <Extra>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\2.wma</Extra>
+      <Time>2013-04-21T02:23:44.8755745-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\3.mp3</Source>
+      <Name>Music\3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\3.xnb</Output>
+      <Extra>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\3.wma</Extra>
+      <Time>2013-04-21T02:23:44.936578-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\4.mp3</Source>
+      <Name>Music\4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\4.xnb</Output>
+      <Extra>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\4.wma</Extra>
+      <Time>2013-04-21T02:23:44.9555791-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\5.mp3</Source>
+      <Name>Music\5</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\5.xnb</Output>
+      <Extra>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Music\5.wma</Extra>
+      <Time>2013-04-21T02:23:45.0375838-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Zombie.png</Source>
+      <Name>Enemies\Zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Enemies\Zombie.xnb</Output>
+      <Time>2013-04-21T10:46:05.4855188-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Pause.png</Source>
+      <Name>Menu\Pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Menu\Pause.xnb</Output>
+      <Time>2013-04-21T23:36:24.7037602-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Menu.spritefont</Source>
+      <Name>UI\Menu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\Menu.xnb</Output>
+      <Time>2013-04-22T00:33:09.2644899-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Cursor.png</Source>
+      <Name>UI\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\UI\Cursor.xnb</Output>
+      <Time>2013-04-22T00:15:42.1796001-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\AddAttribute.png</Source>
+      <Name>Menu\AddAttribute</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Menu\AddAttribute.xnb</Output>
+      <Time>2013-04-22T02:31:18.044945-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Chat\ChatBox.png</Source>
+      <Name>Chat\ChatBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Chat\ChatBox.xnb</Output>
+      <Time>2013-05-03T23:46:04.4997405-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MapOne\EnemyName.spritefont</Source>
+      <Name>MapOne\EnemyName</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\MapOne\EnemyName.xnb</Output>
+      <Time>2013-05-03T18:27:05.5940577-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Chat\ChatFont.spritefont</Source>
+      <Name>Chat\ChatFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Chat\ChatFont.xnb</Output>
+      <Time>2013-05-04T02:26:15.2104417-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MapOne\Rock.png</Source>
+      <Name>MapOne\Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\MapOne\Rock.xnb</Output>
+      <Time>2013-05-05T02:38:08.4740354-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MapOne\TreeGreen.png</Source>
+      <Name>MapOne\TreeGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\MapOne\TreeGreen.xnb</Output>
+      <Time>2013-05-05T02:38:08.5040371-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MapOne\TreeYellow.png</Source>
+      <Name>MapOne\TreeYellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\MapOne\TreeYellow.xnb</Output>
+      <Time>2013-05-05T02:38:08.5140377-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MapOne\TreeRed.png</Source>
+      <Name>MapOne\TreeRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\MapOne\TreeRed.xnb</Output>
+      <Time>2013-05-05T02:38:08.5250383-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MapTwo\Wall1.png</Source>
+      <Name>MapTwo\Wall1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\MapTwo\Wall1.xnb</Output>
+      <Time>2013-05-05T05:09:28.2893711-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MapTwo\Wall2.png</Source>
+      <Name>MapTwo\Wall2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\MapTwo\Wall2.xnb</Output>
+      <Time>2013-05-05T05:58:55.5810905-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MapTwo\Statue.png</Source>
+      <Name>MapTwo\Statue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\MapTwo\Statue.xnb</Output>
+      <Time>2013-05-05T06:13:28.7910352-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MapOne\LevelChanger.png</Source>
+      <Name>MapOne\LevelChanger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\MapOne\LevelChanger.xnb</Output>
+      <Time>2013-05-05T18:18:22.3517246-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Attacks\ArcaneBolt.png</Source>
+      <Name>Attacks\ArcaneBolt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Attacks\ArcaneBolt.xnb</Output>
+      <Time>2013-05-07T07:45:05.3390145-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Attacks\Attack.png</Source>
+      <Name>Attacks\Attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Attacks\Attack.xnb</Output>
+      <Time>2013-05-07T07:45:05.3400145-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Attacks\Fireball.png</Source>
+      <Name>Attacks\Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Attacks\Fireball.xnb</Output>
+      <Time>2013-05-07T07:45:05.3400145-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Attacks\Hammer.png</Source>
+      <Name>Attacks\Hammer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Attacks\Hammer.xnb</Output>
+      <Time>2013-05-07T07:45:05.3410146-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Attacks\Lightning.png</Source>
+      <Name>Attacks\Lightning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Attacks\Lightning.xnb</Output>
+      <Time>2013-05-07T07:45:05.3510151-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Attacks\Nuke.png</Source>
+      <Name>Attacks\Nuke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Attacks\Nuke.xnb</Output>
+      <Time>2013-05-07T07:45:05.3520152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Attacks\Viper.png</Source>
+      <Name>Attacks\Viper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Attacks\Viper.xnb</Output>
+      <Time>2013-05-07T07:45:05.3520152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Dragon.png</Source>
+      <Name>Enemies\Dragon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Enemies\Dragon.xnb</Output>
+      <Time>2013-05-09T06:52:19.457941-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Doctor.png</Source>
+      <Name>Enemies\Doctor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Enemies\Doctor.xnb</Output>
+      <Time>2013-05-09T07:55:38.0302069-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\A1.png</Source>
+      <Name>Items\A1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\A1.xnb</Output>
+      <Time>2013-05-10T02:17:38.2670681-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\A2.png</Source>
+      <Name>Items\A2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\A2.xnb</Output>
+      <Time>2013-05-10T02:17:38.2840691-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\A3.png</Source>
+      <Name>Items\A3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\A3.xnb</Output>
+      <Time>2013-05-10T02:17:38.2950697-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\D1.png</Source>
+      <Name>Items\D1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\D1.xnb</Output>
+      <Time>2013-05-10T02:17:38.2950697-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\D2.png</Source>
+      <Name>Items\D2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\D2.xnb</Output>
+      <Time>2013-05-10T02:17:38.2960698-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\D3.png</Source>
+      <Name>Items\D3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\D3.xnb</Output>
+      <Time>2013-05-10T02:17:38.3210712-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\D4.png</Source>
+      <Name>Items\D4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\D4.xnb</Output>
+      <Time>2013-05-10T02:17:38.3220712-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\D5.png</Source>
+      <Name>Items\D5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\D5.xnb</Output>
+      <Time>2013-05-10T02:17:38.3250714-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\D6.png</Source>
+      <Name>Items\D6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\D6.xnb</Output>
+      <Time>2013-05-10T02:17:38.3500728-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\S1.png</Source>
+      <Name>Items\S1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\S1.xnb</Output>
+      <Time>2013-05-10T02:17:38.3510729-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\S2.png</Source>
+      <Name>Items\S2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\S2.xnb</Output>
+      <Time>2013-05-10T02:17:38.3660738-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\S3.png</Source>
+      <Name>Items\S3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\S3.xnb</Output>
+      <Time>2013-05-10T02:17:38.3670738-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Loot.png</Source>
+      <Name>Items\Loot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\Items\Loot.xnb</Output>
+      <Time>2013-05-10T06:17:15.0613737-04:00</Time>
+    </Item>
+    <Item>
+      <Source>EndGame.png</Source>
+      <Name>EndGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\EndGame.xnb</Output>
+      <Time>2013-05-15T07:49:05.7295789-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\GameOver.xnb</Output>
+      <Time>2013-05-15T08:02:48.5386408-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\ChampionsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\ChampionsContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Michael\Desktop\Computer Science\Senior Project\Champions\Champions\Champions\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-04-08T16:46:03.0121364-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

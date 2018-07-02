@@ -1,0 +1,32 @@
+﻿
+
+http://xbox.create.msdn.com/en-US/education/tutorial/2dgame/creating_the_player
+for all of my basic XNA tutorial needs.
+
+http://negativezero.bandcamp.com/
+for the title screen music
+
+http://www.xnadevelopment.com/tutorials/thestateofthings/thestateofthings.shtml
+for outlining the importance of the "game state"; i would have been stuck without it
+
+http://chaoko99.deviantart.com/art/Keira-the-mage-sprites-169942615
+for my mage and magic sprites
+
+http://www.allacrost.org/forum/viewtopic.php?t=3190&f=8
+for my warrior sprite
+
+http://www.zeldadungeon.net/Zelda09/Bottles/RedPotion_Large.png
+for my health potion graphic
+
+http://logos.co/1024/royalty-free-vector-logo-of-a-viper-head-by-patrimonio-589.jpg
+for my viper graphic
+
+https://www.google.com/search?q=bomb+graphic&rlz=1C1CHFX_enUS397US397&aq=f&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&authuser=0&ei=RFNvUfLDCc384APbm4Ao&biw=972&bih=410&sei=RlNvUcCmBoT64AOTvoDwCg#um=1&hl=en&rlz=1C1CHFX_enUS397US397&authuser=0&tbm=isch&sa=1&q=nuclear+bomb+graphic&oq=nuclear+bomb+graphic&gs_l=img.3..0.6214.6909.0.6987.8.8.0.0.0.1.101.512.7j1.8.0...0.0...1c.1.9.img.8ICHQQcC7ZE&bav=on.2,or.r_cp.r_qf.&bvm=bv.45368065,d.dmg&fp=b1cf251fa53c89bd&biw=972&bih=410&imgrc=uPyN8oCbqeAddM%3A%3BpjF11ToBO-HTBM%3Bhttp%253A%252F%252Fopenclipart.org%252Fpeople%252Ftzunghaor%252Fnuke.svg%3Bhttp%253A%252F%252Fopenclipart.org%252Fdetail%252F166696%3B455%3B548
+nuclear bomb graphic
+
+http://icons.iconarchive.com/icons/raindropmemory/legendora/256/sword-icon.png
+sword graphic
+
+http://fc04.deviantart.net/fs71/f/2010/272/e/c/amy__s_hammer_custom_sprites_by_t_hedgez-d2zq3dl.png
+hammer sprites
+
